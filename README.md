@@ -6,12 +6,6 @@
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-![Python](https://img.shields.io/badge/Python-3.12%2B-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-async-success)
-![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 API bancária desenvolvida com **FastAPI**, **SQLAlchemy Core**, **Databases** e **SQLite**, focada em boas práticas de sistemas financeiros, operações assíncronas e consistência de dados.
 
 Este projeto simula operações bancárias reais como:
